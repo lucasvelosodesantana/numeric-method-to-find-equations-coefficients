@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1435180390 source:c:\users\lucas\documents\projeto numerico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1435176902 source:c:\users\rodrigo\documents\rodrigo\codeblocks\projetos\nova pasta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1435180390 source:c:\users\rodrigo\documents\rodrigo\2015.1\cálculo numérico\2o projeto\projeto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
